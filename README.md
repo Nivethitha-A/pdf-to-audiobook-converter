@@ -60,23 +60,24 @@ pdf_to_audiobook/
 ### 1️⃣ Install Dependencies
 ```bash
 pip install -r requirements.txt
+```
 2️⃣ Run the Application
 ```
 python main.py
 ```
 ---
-📎 Sample Files
+##📎 Sample Files
 Sample PDF files are available in assets/samples/
 
 Generated audio files are saved in output/converted_audio/
 ---
 
-🎓 Academic Note
+##🎓 Academic Note
 This project was developed as a mini-project following the given problem statement using Tkinter.
 A web-based version using Flask can be considered as a future enhancement.
 ---
 
-🚀 Future Enhancements
+##🚀 Future Enhancements
 Pause and resume audio
 
 Language selection
