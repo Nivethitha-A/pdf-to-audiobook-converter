@@ -74,8 +74,10 @@ Generated audio files are saved in output/converted_audio/
 ---
 
 ## 🎓 Academic Note
+
 This project was developed as a mini-project following the given problem statement using Tkinter.
 A web-based version using Flask can be considered as a future enhancement.
+
 ---
 
 ## 🚀 Future Enhancements
